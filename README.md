@@ -14,6 +14,9 @@ Things you may want to cover:
 * Database creation
 
 * Database initialization
+* <a href="https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 
 * How to run the test suite
 
