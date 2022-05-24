@@ -14,7 +14,7 @@ Things you may want to cover:
 * Database creation
 
 * Database initialization
-* <a href="https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started">
+* <a href="https://heroku.com/deploy?template=https://github.com/heroku/my_first_rails_app">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
